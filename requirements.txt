@@ -6,3 +6,4 @@ langchain
 langchain-google-genai
 langchain-huggingface
 faiss-cpu
+langchain-community 
